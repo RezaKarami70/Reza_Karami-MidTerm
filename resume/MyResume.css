@@ -1,0 +1,61 @@
+div{
+    border-radius: 5px;
+}
+#header {
+
+    position: fixed;
+    height: 40px;
+    margin-right: 1%;
+    width: 99%;
+    background-color: #9fbbc2;
+    margin-bottom: 30px
+}
+
+#name {
+    float: left;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    color: #160b6b;
+}
+
+#email {
+    float: right;
+    margin-right: 20px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    color: #160b6b;
+}
+.right {
+    float: left;
+    margin-top: 30px;
+    height: auto;
+    width: 100%;
+    background-color: #d3e5eb;
+}
+h3 {
+    text-decoration: underline;
+    padding-left: 2%;
+}
+
+#heading {
+    font-weight: bold;
+    height: 35px;
+}
+
+table {
+    margin: auto;
+    border:solid 3px #3f6876 ;
+    border-radius: 5px;
+}
+td {
+    padding: 2px;
+    border: solid 1px;
+    border-radius: 3px;
+    border-color: #3f6876;
+}
+.choose{
+    background-color: #3f6876;
+}
